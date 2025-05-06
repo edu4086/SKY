@@ -1,1 +1,1 @@
-# SKY
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svghttps://i.ibb.co/0yY5BMQg/https://i.ibb.co/0yY5BMQg/nexus-xmd.jpg?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING GHOST+E;WHATSAPP+BOT+CREATED+BY+Ni EDU" alt="Typing SVG" /></a># SKY
