@@ -23,3 +23,5 @@
 <a href="https://github.com/ni edu/followers"><img title="Followers" src="https://img.shields.io/github/followers/niedu?color=blue&style=flat-square"></a>
 <a href="https://github.com/niedu/GHOST-E/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/niedu/GHOST-E?color=blue&style=flat-square"></a>
 <a href="https://github.com/niedu/GHOST-E/network/members"><img title="Forks" src="https://img.shields.io/github/forks/pkdriller/GHOST-E?color=blue&style=flat-square"></a>
+<img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_QUANTUM_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=white&color=skyblue" width="260" height="50"/>
+  </a>
