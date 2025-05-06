@@ -18,3 +18,8 @@
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=+; 𝐁𝐎𝐓+ 𝐈𝐒+100%+𝐒𝐀𝐅𝐄+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔" alt="Typing SVG" /></a>
+
+<p align="center">
+<a href="https://github.com/ni edu/followers"><img title="Followers" src="https://img.shields.io/github/followers/niedu?color=blue&style=flat-square"></a>
+<a href="https://github.com/niedu/GHOST-E/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/niedu/GHOST-E?color=blue&style=flat-square"></a>
+<a href="https://github.com/niedu/GHOST-E/network/members"><img title="Forks" src="https://img.shields.io/github/forks/pkdriller/GHOST-E?color=blue&style=flat-square"></a>
