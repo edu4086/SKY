@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝚆𝙰𝚃𝚂𝙰𝙿𝙿.𝙱𝙾𝚃+𝙱𝚈+GHOST-E+𝚃𝙴𝙲𝙷)](https://git.io/typing-svg) font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=MULTI-DEVICE GHOST-E BOT +MAKE; STAR ⭐+AND+FORKS+BY+GHOST-E" alt="Typing SVG" /></a>
+
